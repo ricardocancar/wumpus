@@ -1,0 +1,9 @@
+.spyproject
+pyvenv.cfg
+bin
+lib
+include
+lib64
+share
+**/__pycache__/**
+
